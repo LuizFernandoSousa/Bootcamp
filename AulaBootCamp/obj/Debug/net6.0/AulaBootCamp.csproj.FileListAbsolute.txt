@@ -1,0 +1,15 @@
+D:\Luiz - PC\Aula de programação\BootCamp\AulaBootCamp\bin\Debug\net6.0\AulaBootCamp.exe
+D:\Luiz - PC\Aula de programação\BootCamp\AulaBootCamp\bin\Debug\net6.0\AulaBootCamp.deps.json
+D:\Luiz - PC\Aula de programação\BootCamp\AulaBootCamp\bin\Debug\net6.0\AulaBootCamp.runtimeconfig.json
+D:\Luiz - PC\Aula de programação\BootCamp\AulaBootCamp\bin\Debug\net6.0\AulaBootCamp.dll
+D:\Luiz - PC\Aula de programação\BootCamp\AulaBootCamp\bin\Debug\net6.0\ref\AulaBootCamp.dll
+D:\Luiz - PC\Aula de programação\BootCamp\AulaBootCamp\bin\Debug\net6.0\AulaBootCamp.pdb
+D:\Luiz - PC\Aula de programação\BootCamp\AulaBootCamp\obj\Debug\net6.0\AulaBootCamp.csproj.AssemblyReference.cache
+D:\Luiz - PC\Aula de programação\BootCamp\AulaBootCamp\obj\Debug\net6.0\AulaBootCamp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Luiz - PC\Aula de programação\BootCamp\AulaBootCamp\obj\Debug\net6.0\AulaBootCamp.AssemblyInfoInputs.cache
+D:\Luiz - PC\Aula de programação\BootCamp\AulaBootCamp\obj\Debug\net6.0\AulaBootCamp.AssemblyInfo.cs
+D:\Luiz - PC\Aula de programação\BootCamp\AulaBootCamp\obj\Debug\net6.0\AulaBootCamp.csproj.CoreCompileInputs.cache
+D:\Luiz - PC\Aula de programação\BootCamp\AulaBootCamp\obj\Debug\net6.0\AulaBootCamp.dll
+D:\Luiz - PC\Aula de programação\BootCamp\AulaBootCamp\obj\Debug\net6.0\ref\AulaBootCamp.dll
+D:\Luiz - PC\Aula de programação\BootCamp\AulaBootCamp\obj\Debug\net6.0\AulaBootCamp.pdb
+D:\Luiz - PC\Aula de programação\BootCamp\AulaBootCamp\obj\Debug\net6.0\AulaBootCamp.genruntimeconfig.cache
