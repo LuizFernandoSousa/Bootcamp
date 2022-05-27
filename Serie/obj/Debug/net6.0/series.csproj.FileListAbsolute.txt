@@ -1,0 +1,15 @@
+D:\Luiz - PC\Aula de programação\BootCamp\Series\Serie\obj\Debug\net6.0\series.csproj.AssemblyReference.cache
+D:\Luiz - PC\Aula de programação\BootCamp\Series\Serie\obj\Debug\net6.0\series.GeneratedMSBuildEditorConfig.editorconfig
+D:\Luiz - PC\Aula de programação\BootCamp\Series\Serie\obj\Debug\net6.0\series.AssemblyInfoInputs.cache
+D:\Luiz - PC\Aula de programação\BootCamp\Series\Serie\obj\Debug\net6.0\series.AssemblyInfo.cs
+D:\Luiz - PC\Aula de programação\BootCamp\Series\Serie\obj\Debug\net6.0\series.csproj.CoreCompileInputs.cache
+D:\Luiz - PC\Aula de programação\BootCamp\Series\Serie\bin\Debug\net6.0\series.exe
+D:\Luiz - PC\Aula de programação\BootCamp\Series\Serie\bin\Debug\net6.0\series.deps.json
+D:\Luiz - PC\Aula de programação\BootCamp\Series\Serie\bin\Debug\net6.0\series.runtimeconfig.json
+D:\Luiz - PC\Aula de programação\BootCamp\Series\Serie\bin\Debug\net6.0\series.dll
+D:\Luiz - PC\Aula de programação\BootCamp\Series\Serie\bin\Debug\net6.0\ref\series.dll
+D:\Luiz - PC\Aula de programação\BootCamp\Series\Serie\bin\Debug\net6.0\series.pdb
+D:\Luiz - PC\Aula de programação\BootCamp\Series\Serie\obj\Debug\net6.0\series.dll
+D:\Luiz - PC\Aula de programação\BootCamp\Series\Serie\obj\Debug\net6.0\ref\series.dll
+D:\Luiz - PC\Aula de programação\BootCamp\Series\Serie\obj\Debug\net6.0\series.pdb
+D:\Luiz - PC\Aula de programação\BootCamp\Series\Serie\obj\Debug\net6.0\series.genruntimeconfig.cache
